@@ -8,9 +8,9 @@
 Temos vários recursos funcionais, entre eles:
 
 * First Class Functions
-• High Order Functions
-• Anonymous Functions
-• Closure
-• Recursion
-• Immutability
-• Lazy Evaluation
+* High Order Functions
+* Anonymous Functions
+* Closure
+* Recursion
+* Immutability
+* Lazy Evaluation
