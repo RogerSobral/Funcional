@@ -6,7 +6,7 @@
 
 
 Temos vários recursos funcionais, entre eles:
-• First Class Functions
+* First Class Functions
 • High Order Functions
 • Anonymous Functions
 • Closure
